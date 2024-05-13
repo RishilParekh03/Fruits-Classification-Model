@@ -1,4 +1,4 @@
-#PROJECT OVERVIEW
+PROJECT OVERVIEW
 
 Neural Network Model for classifying 3 fruits using keras.
 This repository implements a neural network from scratch for classifying three types of fruits using a custom dataset.
